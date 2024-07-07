@@ -7,3 +7,8 @@ Important Java bean validations
  * @NotEmpty validates that the property is not null or empty; can be applied to String, Collection, Map, or Array values.
  * @NotBlank can be applied only to text values and validates that the property is not null or whitespace.
 
+proper validation phase
+![http___localhost_8080_api_v1_employes_2 - My Workspace 7_7_2024 5_06_24 PM](https://github.com/devc1234/Hibernate-validation-h2-spring-boot/assets/155445639/4d79215d-07a2-468a-b4fb-b3bbe3b1d6d7)
+
+invalid data enter/improper
+![http___localhost_8080_api_v1_employes_2 - My Workspace 7_7_2024 5_06_55 PM](https://github.com/devc1234/Hibernate-validation-h2-spring-boot/assets/155445639/5b156829-e38a-49c4-a616-8b3134a1fa13)
